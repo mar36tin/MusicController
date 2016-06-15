@@ -1,0 +1,6 @@
+[0m[[0minfo[0m] [0m[32mBlogSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mThe blog app home page[0m[0m
+[0m[[0minfo[0m] [0m[31m- should have the correct title *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  "[]" was not equal to "[Awesome Blog]" (Test.scala:28)[0m[0m
+[0m[[0minfo[0m] [0m[32mThe man should be maertin [0m[0m
+[0m[[0minfo[0m] [0m[32m- should have the[0m[0m

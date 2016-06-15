@@ -1,0 +1,227 @@
+[0m[[0minfo[0m] [0mUpdating {file:/Users/martingwarada/projects/AkkaPi/}akkapi...[0m
+[0m[[0mdebug[0m] [0m:: resolving dependencies :: default#akkapi_2.9.1;1.0[0m
+[0m[[0mdebug[0m] [0m	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool][0m
+[0m[[0mdebug[0m] [0m	validate = true[0m
+[0m[[0mdebug[0m] [0m	refresh = false[0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'compile'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#akkapi_2.9.1;1.0 [compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#akkapi_2.9.1;1.0->org.scala-lang#scala-library;2.9.1 [compile->default(compile)][0m
+[0m[[0minfo[0m] [0mResolving org.scala-lang#scala-library;2.9.1 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7855a7c8[0m
+[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-lang#scala-library;2.9.1[0m
+[0m[[0mdebug[0m] [0m	found org.scala-lang#scala-library;2.9.1 in sbt-chain[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#akkapi_2.9.1;1.0->org.scala-lang#scala-library;2.9.1 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#akkapi_2.9.1;1.0->org.scala-lang#scala-library;2.9.1 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#akkapi_2.9.1;1.0->org.scala-lang#scala-library;2.9.1 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#akkapi_2.9.1;1.0->com.typesafe.akka#akka-actor;2.0 [compile->default(compile)][0m
+[0m[[0minfo[0m] [0mResolving com.typesafe.akka#akka-actor;2.0 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: com.typesafe.akka#akka-actor;2.0 {compile=[default(compile)]}[0m
+[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: com.typesafe.akka#akka-actor;2.0[0m
+[0m[[0mdebug[0m] [0m	found com.typesafe.akka#akka-actor;2.0 in sbt-chain[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#akkapi_2.9.1;1.0->com.typesafe.akka#akka-actor;2.0 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#akkapi_2.9.1;1.0->com.typesafe.akka#akka-actor;2.0 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.akka#akka-actor;2.0->org.scala-lang#scala-library;2.9.1-1 [compile->master(compile)][0m
+[0m[[0minfo[0m] [0mResolving org.scala-lang#scala-library;2.9.1-1 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.scala-lang#scala-library;2.9.1-1 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}[0m
+[0m[[0minfo[0m] [0mResolving org.scala-lang#scala-library;2.9.1-1 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain-delegate: Checking cache for: dependency: org.scala-lang#scala-library;2.9.1-1 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}[0m
+[0m[[0mdebug[0m] [0m		tried /Users/martingwarada/.ivy2/local/org.scala-lang/scala-library/2.9.1-1/ivys/ivy.xml[0m
+[0m[[0mdebug[0m] [0m	local: no ivy file found for org.scala-lang#scala-library;2.9.1-1[0m
+[0m[[0mdebug[0m] [0m		tried /Users/martingwarada/Documents/Tools/activator-1.3.2/repository/org.scala-lang/scala-library/2.9.1-1/ivys/ivy.xml[0m
+[0m[[0mdebug[0m] [0m	activator-local: no ivy file found for org.scala-lang#scala-library;2.9.1-1[0m
+[0m[[0mdebug[0m] [0m		tried /Users/martingwarada/.activator/repository/org.scala-lang/scala-library/2.9.1-1/ivys/ivy.xml[0m
+[0m[[0mdebug[0m] [0m	activator-launcher-local: no ivy file found for org.scala-lang#scala-library;2.9.1-1[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.9.1-1/scala-library-2.9.1-1.pom[0m
+[0m[[0mdebug[0m] [0m	public: found md file for org.scala-lang#scala-library;2.9.1-1[0m
+[0m[[0mdebug[0m] [0m		=> https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.9.1-1/scala-library-2.9.1-1.pom (2.9.1-1)[0m
+[0m[[0mdebug[0m] [0mdownloading https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.9.1-1/scala-library-2.9.1-1.pom ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.9.1-1/scala-library-2.9.1-1.pom[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.9.1-1/scala-library-2.9.1-1.pom.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.9.1-1/scala-library-2.9.1-1.pom[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.scala-lang#scala-library;2.9.1-1!scala-library.pom(pom.original) (297ms)[0m
+[0m[[0mdebug[0m] [0m		tried /Users/martingwarada/.ivy2/local/org.scala-lang/scala-library/2.9.1-1/jars/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m		tried /Users/martingwarada/Documents/Tools/activator-1.3.2/repository/org.scala-lang/scala-library/2.9.1-1/jars/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m		tried /Users/martingwarada/.activator/repository/org.scala-lang/scala-library/2.9.1-1/jars/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.9.1-1/scala-library-2.9.1-1.jar[0m
+[0m[[0mdebug[0m] [0m	found org.scala-lang#scala-library;2.9.1-1 in public[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.akka#akka-actor;2.0->org.scala-lang#scala-library;2.9.1-1 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.akka#akka-actor;2.0->org.scala-lang#scala-library;2.9.1-1 [compile->runtime(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.akka#akka-actor;2.0->org.scala-lang#scala-library;2.9.1-1 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.akka#akka-actor;2.0->org.scala-lang#scala-library;2.9.1-1 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.akka#akka-actor;2.0->org.scala-lang#scala-library;2.9.1-1 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.akka#akka-actor;2.0->org.scala-lang#scala-library;2.9.1-1 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.akka#akka-actor;2.0->org.scala-lang#scala-library;2.9.1-1 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.akka#akka-actor;2.0->org.scala-lang#scala-library;2.9.1-1 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.akka#akka-actor;2.0->org.scala-lang#scala-library;2.9.1-1 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.akka#akka-actor;2.0->org.scala-lang#scala-library;2.9.1-1 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.akka#akka-actor;2.0->org.scala-lang#scala-library;2.9.1-1 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#akkapi_2.9.1;1.0->com.typesafe.akka#akka-actor;2.0 [compile->master][0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'runtime'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#akkapi_2.9.1;1.0 [runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#akkapi_2.9.1;1.0 [compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#akkapi_2.9.1;1.0->org.scala-lang#scala-library;2.9.1 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#akkapi_2.9.1;1.0->org.scala-lang#scala-library;2.9.1 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#akkapi_2.9.1;1.0->org.scala-lang#scala-library;2.9.1 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#akkapi_2.9.1;1.0->org.scala-lang#scala-library;2.9.1 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#akkapi_2.9.1;1.0->com.typesafe.akka#akka-actor;2.0 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#akkapi_2.9.1;1.0->com.typesafe.akka#akka-actor;2.0 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#akkapi_2.9.1;1.0->com.typesafe.akka#akka-actor;2.0 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.akka#akka-actor;2.0->org.scala-lang#scala-library;2.9.1-1 [compile->master(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.akka#akka-actor;2.0->org.scala-lang#scala-library;2.9.1-1 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.akka#akka-actor;2.0->org.scala-lang#scala-library;2.9.1-1 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.akka#akka-actor;2.0->org.scala-lang#scala-library;2.9.1-1 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#akkapi_2.9.1;1.0->com.typesafe.akka#akka-actor;2.0 [compile->master][0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'test'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#akkapi_2.9.1;1.0 [test][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#akkapi_2.9.1;1.0 [runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#akkapi_2.9.1;1.0 [compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#akkapi_2.9.1;1.0->org.scala-lang#scala-library;2.9.1 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#akkapi_2.9.1;1.0->org.scala-lang#scala-library;2.9.1 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#akkapi_2.9.1;1.0->org.scala-lang#scala-library;2.9.1 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#akkapi_2.9.1;1.0->org.scala-lang#scala-library;2.9.1 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#akkapi_2.9.1;1.0->com.typesafe.akka#akka-actor;2.0 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#akkapi_2.9.1;1.0->com.typesafe.akka#akka-actor;2.0 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#akkapi_2.9.1;1.0->com.typesafe.akka#akka-actor;2.0 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.akka#akka-actor;2.0->org.scala-lang#scala-library;2.9.1-1 [compile->master(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.akka#akka-actor;2.0->org.scala-lang#scala-library;2.9.1-1 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.akka#akka-actor;2.0->org.scala-lang#scala-library;2.9.1-1 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.akka#akka-actor;2.0->org.scala-lang#scala-library;2.9.1-1 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#akkapi_2.9.1;1.0->com.typesafe.akka#akka-actor;2.0 [compile->master][0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'provided'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#akkapi_2.9.1;1.0 [provided][0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'optional'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#akkapi_2.9.1;1.0 [optional][0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'compile-internal'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#akkapi_2.9.1;1.0 [compile-internal][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#akkapi_2.9.1;1.0 [compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#akkapi_2.9.1;1.0->org.scala-lang#scala-library;2.9.1 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#akkapi_2.9.1;1.0->org.scala-lang#scala-library;2.9.1 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#akkapi_2.9.1;1.0->org.scala-lang#scala-library;2.9.1 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#akkapi_2.9.1;1.0->org.scala-lang#scala-library;2.9.1 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#akkapi_2.9.1;1.0->com.typesafe.akka#akka-actor;2.0 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#akkapi_2.9.1;1.0->com.typesafe.akka#akka-actor;2.0 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#akkapi_2.9.1;1.0->com.typesafe.akka#akka-actor;2.0 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.akka#akka-actor;2.0->org.scala-lang#scala-library;2.9.1-1 [compile->master(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.akka#akka-actor;2.0->org.scala-lang#scala-library;2.9.1-1 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.akka#akka-actor;2.0->org.scala-lang#scala-library;2.9.1-1 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.akka#akka-actor;2.0->org.scala-lang#scala-library;2.9.1-1 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#akkapi_2.9.1;1.0->com.typesafe.akka#akka-actor;2.0 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#akkapi_2.9.1;1.0 [optional][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#akkapi_2.9.1;1.0 [provided][0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'runtime-internal'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#akkapi_2.9.1;1.0 [runtime-internal][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#akkapi_2.9.1;1.0 [runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#akkapi_2.9.1;1.0 [compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#akkapi_2.9.1;1.0->org.scala-lang#scala-library;2.9.1 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#akkapi_2.9.1;1.0->org.scala-lang#scala-library;2.9.1 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#akkapi_2.9.1;1.0->org.scala-lang#scala-library;2.9.1 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#akkapi_2.9.1;1.0->org.scala-lang#scala-library;2.9.1 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#akkapi_2.9.1;1.0->com.typesafe.akka#akka-actor;2.0 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#akkapi_2.9.1;1.0->com.typesafe.akka#akka-actor;2.0 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#akkapi_2.9.1;1.0->com.typesafe.akka#akka-actor;2.0 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.akka#akka-actor;2.0->org.scala-lang#scala-library;2.9.1-1 [compile->master(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.akka#akka-actor;2.0->org.scala-lang#scala-library;2.9.1-1 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.akka#akka-actor;2.0->org.scala-lang#scala-library;2.9.1-1 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.akka#akka-actor;2.0->org.scala-lang#scala-library;2.9.1-1 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#akkapi_2.9.1;1.0->com.typesafe.akka#akka-actor;2.0 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#akkapi_2.9.1;1.0 [optional][0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'test-internal'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#akkapi_2.9.1;1.0 [test-internal][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#akkapi_2.9.1;1.0 [test][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#akkapi_2.9.1;1.0 [runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#akkapi_2.9.1;1.0 [compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#akkapi_2.9.1;1.0->org.scala-lang#scala-library;2.9.1 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#akkapi_2.9.1;1.0->org.scala-lang#scala-library;2.9.1 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#akkapi_2.9.1;1.0->org.scala-lang#scala-library;2.9.1 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#akkapi_2.9.1;1.0->org.scala-lang#scala-library;2.9.1 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#akkapi_2.9.1;1.0->com.typesafe.akka#akka-actor;2.0 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#akkapi_2.9.1;1.0->com.typesafe.akka#akka-actor;2.0 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#akkapi_2.9.1;1.0->com.typesafe.akka#akka-actor;2.0 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.akka#akka-actor;2.0->org.scala-lang#scala-library;2.9.1-1 [compile->master(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.akka#akka-actor;2.0->org.scala-lang#scala-library;2.9.1-1 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.akka#akka-actor;2.0->org.scala-lang#scala-library;2.9.1-1 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.akka#akka-actor;2.0->org.scala-lang#scala-library;2.9.1-1 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#akkapi_2.9.1;1.0->com.typesafe.akka#akka-actor;2.0 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#akkapi_2.9.1;1.0 [optional][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#akkapi_2.9.1;1.0 [provided][0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'plugin'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#akkapi_2.9.1;1.0 [plugin][0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'sources'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#akkapi_2.9.1;1.0 [sources][0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'docs'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#akkapi_2.9.1;1.0 [docs][0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'pom'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#akkapi_2.9.1;1.0 [pom][0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'scala-tool'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#akkapi_2.9.1;1.0 [scala-tool][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#akkapi_2.9.1;1.0->org.scala-lang#scala-compiler;2.9.1 [scala-tool->default][0m
+[0m[[0minfo[0m] [0mResolving org.scala-lang#scala-compiler;2.9.1 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.scala-lang#scala-compiler;2.9.1 {scala-tool=[default, optional(default)]}[0m
+[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-lang#scala-compiler;2.9.1[0m
+[0m[[0mdebug[0m] [0m	found org.scala-lang#scala-compiler;2.9.1 in sbt-chain[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#akkapi_2.9.1;1.0->org.scala-lang#scala-compiler;2.9.1 [scala-tool->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#akkapi_2.9.1;1.0->org.scala-lang#scala-compiler;2.9.1 [scala-tool->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.9.1->org.scala-lang#scala-library;2.9.1 [compile->master(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.9.1->org.scala-lang#scala-library;2.9.1 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.9.1->org.scala-lang#scala-library;2.9.1 [compile->default][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.9.1->org.scala-lang#scala-library;2.9.1 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.9.1->org.scala-lang#scala-library;2.9.1 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.9.1->org.scala-lang#scala-library;2.9.1 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.9.1->org.scala-lang#scala-library;2.9.1 [compile->runtime(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.9.1->org.scala-lang#scala-library;2.9.1 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.9.1->org.scala-lang#scala-library;2.9.1 [compile->optional(default)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.9.1->org.scala-lang#scala-library;2.9.1 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.9.1->org.scala-lang#scala-library;2.9.1 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#akkapi_2.9.1;1.0->org.scala-lang#scala-compiler;2.9.1 [scala-tool->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#akkapi_2.9.1;1.0->org.scala-lang#scala-compiler;2.9.1 [scala-tool->optional(default)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.9.1->org.scala-lang#jline;2.9.1 [optional->master(compile)][0m
+[0m[[0minfo[0m] [0mResolving org.scala-lang#jline;2.9.1 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.scala-lang#jline;2.9.1 {optional=[compile(*), master(compile)]}[0m
+[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-lang#jline;2.9.1[0m
+[0m[[0mdebug[0m] [0m	found org.scala-lang#jline;2.9.1 in sbt-chain[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.9.1->org.scala-lang#jline;2.9.1 [optional->compile(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#jline;2.9.1->org.fusesource.jansi#jansi;1.4 [compile->master(compile)][0m
+[0m[[0minfo[0m] [0mResolving org.fusesource.jansi#jansi;1.4 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.fusesource.jansi#jansi;1.4 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}[0m
+[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.fusesource.jansi#jansi;1.4[0m
+[0m[[0mdebug[0m] [0m	found org.fusesource.jansi#jansi;1.4 in sbt-chain[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#jline;2.9.1->org.fusesource.jansi#jansi;1.4 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#akkapi_2.9.1;1.0->org.scala-lang#scala-library;2.9.1 [scala-tool->default][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#akkapi_2.9.1;1.0->org.scala-lang#scala-library;2.9.1 [scala-tool->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#akkapi_2.9.1;1.0->org.scala-lang#scala-library;2.9.1 [scala-tool->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#akkapi_2.9.1;1.0->org.scala-lang#scala-library;2.9.1 [scala-tool->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#akkapi_2.9.1;1.0->org.scala-lang#scala-library;2.9.1 [scala-tool->optional(default)][0m
+[0m[[0mdebug[0m] [0m	resolved ivy file produced in cache[0m
+[0m[[0mdebug[0m] [0m:: downloading artifacts ::[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#scala-library;2.9.1!scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] com.typesafe.akka#akka-actor;2.0!akka-actor.jar[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.9.1-1/scala-library-2.9.1-1.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.9.1-1/scala-library-2.9.1-1.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.9.1-1/scala-library-2.9.1-1.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.9.1-1/scala-library-2.9.1-1.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.9.1-1/scala-library-2.9.1-1.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.scala-lang#scala-library;2.9.1-1!scala-library.jar (13547ms)[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#scala-compiler;2.9.1!scala-compiler.jar[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#jline;2.9.1!jline.jar[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 2561ms :: artifacts dl 13573ms[0m
+[0m[[0mdebug[0m] [0m	report for default#akkapi_2.9.1;1.0 compile produced in /Users/martingwarada/projects/AkkaPi/target/resolution-cache/reports/default-akkapi_2.9.1-compile.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#akkapi_2.9.1;1.0 runtime produced in /Users/martingwarada/projects/AkkaPi/target/resolution-cache/reports/default-akkapi_2.9.1-runtime.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#akkapi_2.9.1;1.0 test produced in /Users/martingwarada/projects/AkkaPi/target/resolution-cache/reports/default-akkapi_2.9.1-test.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#akkapi_2.9.1;1.0 provided produced in /Users/martingwarada/projects/AkkaPi/target/resolution-cache/reports/default-akkapi_2.9.1-provided.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#akkapi_2.9.1;1.0 optional produced in /Users/martingwarada/projects/AkkaPi/target/resolution-cache/reports/default-akkapi_2.9.1-optional.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#akkapi_2.9.1;1.0 compile-internal produced in /Users/martingwarada/projects/AkkaPi/target/resolution-cache/reports/default-akkapi_2.9.1-compile-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#akkapi_2.9.1;1.0 runtime-internal produced in /Users/martingwarada/projects/AkkaPi/target/resolution-cache/reports/default-akkapi_2.9.1-runtime-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#akkapi_2.9.1;1.0 test-internal produced in /Users/martingwarada/projects/AkkaPi/target/resolution-cache/reports/default-akkapi_2.9.1-test-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#akkapi_2.9.1;1.0 plugin produced in /Users/martingwarada/projects/AkkaPi/target/resolution-cache/reports/default-akkapi_2.9.1-plugin.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#akkapi_2.9.1;1.0 sources produced in /Users/martingwarada/projects/AkkaPi/target/resolution-cache/reports/default-akkapi_2.9.1-sources.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#akkapi_2.9.1;1.0 docs produced in /Users/martingwarada/projects/AkkaPi/target/resolution-cache/reports/default-akkapi_2.9.1-docs.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#akkapi_2.9.1;1.0 pom produced in /Users/martingwarada/projects/AkkaPi/target/resolution-cache/reports/default-akkapi_2.9.1-pom.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#akkapi_2.9.1;1.0 scala-tool produced in /Users/martingwarada/projects/AkkaPi/target/resolution-cache/reports/default-akkapi_2.9.1-scala-tool.xml[0m
+[0m[[0mdebug[0m] [0m	resolve done (2561ms resolve - 13573ms download)[0m
+[0m[[0minfo[0m] [0mDone updating.[0m
+[0m[[33mwarn[0m] [0mScala version was updated by one of library dependencies:[0m
+[0m[[33mwarn[0m] [0m	* org.scala-lang:scala-library:2.9.1 -> 2.9.1-1[0m
+[0m[[33mwarn[0m] [0mTo force scalaVersion, add the following:[0m
+[0m[[33mwarn[0m] [0m	ivyScala := ivyScala.value map { _.copy(overrideScalaVersion = true) }[0m
+[0m[[33mwarn[0m] [0mRun 'evicted' to see detailed eviction warnings[0m

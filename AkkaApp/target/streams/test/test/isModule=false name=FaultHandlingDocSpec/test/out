@@ -1,0 +1,4 @@
+[0m[[0minfo[0m] [0m[32mFaultHandlingDocSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mA supervisor[0m[0m
+[0m[[0minfo[0m] [0m[32m- must apply the chosen strategy for its child[0m[0m
+[0m[[0minfo[0m] [0m[32m- must apply chosen strategy testing the resume option[0m[0m

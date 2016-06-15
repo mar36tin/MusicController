@@ -1,0 +1,296 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/martingwarada/projects/AkkaWordCount/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+17 items
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/Sample.scala -> /Users/martingwarada/projects/AkkaWordCount/target/scala-2.11/classes/Sample$$anonfun$1.class
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/Sample.scala -> /Users/martingwarada/projects/AkkaWordCount/target/scala-2.11/classes/Sample$$anonfun$2.class
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/Sample.scala -> /Users/martingwarada/projects/AkkaWordCount/target/scala-2.11/classes/Sample$.class
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/Sample.scala -> /Users/martingwarada/projects/AkkaWordCount/target/scala-2.11/classes/Sample$delayedInit$body.class
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/Sample.scala -> /Users/martingwarada/projects/AkkaWordCount/target/scala-2.11/classes/Sample.class
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/StringCounterActor.scala -> /Users/martingwarada/projects/AkkaWordCount/target/scala-2.11/classes/ProcessStringMsg$.class
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/StringCounterActor.scala -> /Users/martingwarada/projects/AkkaWordCount/target/scala-2.11/classes/ProcessStringMsg.class
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/StringCounterActor.scala -> /Users/martingwarada/projects/AkkaWordCount/target/scala-2.11/classes/StringCounterActor$$anonfun$receive$1.class
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/StringCounterActor.scala -> /Users/martingwarada/projects/AkkaWordCount/target/scala-2.11/classes/StringCounterActor.class
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/StringCounterActor.scala -> /Users/martingwarada/projects/AkkaWordCount/target/scala-2.11/classes/StringProcessedMsg$.class
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/StringCounterActor.scala -> /Users/martingwarada/projects/AkkaWordCount/target/scala-2.11/classes/StringProcessedMsg.class
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> /Users/martingwarada/projects/AkkaWordCount/target/scala-2.11/classes/StartprocessFileMsg$.class
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> /Users/martingwarada/projects/AkkaWordCount/target/scala-2.11/classes/StartprocessFileMsg.class
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> /Users/martingwarada/projects/AkkaWordCount/target/scala-2.11/classes/WordCounterActor$$anonfun$receive$1$$anonfun$applyOrElse$1.class
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> /Users/martingwarada/projects/AkkaWordCount/target/scala-2.11/classes/WordCounterActor$$anonfun$receive$1$$anonfun$applyOrElse$2.class
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> /Users/martingwarada/projects/AkkaWordCount/target/scala-2.11/classes/WordCounterActor$$anonfun$receive$1.class
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> /Users/martingwarada/projects/AkkaWordCount/target/scala-2.11/classes/WordCounterActor.class
+binary dependencies:
+9 items
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/Sample.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_31.jdk/Contents/Home/jre/lib/rt.jar
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/Sample.scala -> /Users/martingwarada/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4-SNAPSHOT.jar
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/Sample.scala -> /Users/martingwarada/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/StringCounterActor.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_31.jdk/Contents/Home/jre/lib/rt.jar
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/StringCounterActor.scala -> /Users/martingwarada/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4-SNAPSHOT.jar
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/StringCounterActor.scala -> /Users/martingwarada/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_31.jdk/Contents/Home/jre/lib/rt.jar
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> /Users/martingwarada/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4-SNAPSHOT.jar
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> /Users/martingwarada/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+2 items
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/Sample.scala -> /Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> /Users/martingwarada/projects/AkkaWordCount/src/main/scala/StringCounterActor.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+17 items
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/Sample.scala -> Sample
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/Sample.scala -> Sample$
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/Sample.scala -> Sample$$anonfun$1
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/Sample.scala -> Sample$$anonfun$2
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/Sample.scala -> Sample$delayedInit$body
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/StringCounterActor.scala -> ProcessStringMsg
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/StringCounterActor.scala -> ProcessStringMsg$
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/StringCounterActor.scala -> StringCounterActor
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/StringCounterActor.scala -> StringCounterActor$$anonfun$receive$1
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/StringCounterActor.scala -> StringProcessedMsg
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/StringCounterActor.scala -> StringProcessedMsg$
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> StartprocessFileMsg
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> StartprocessFileMsg$
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> WordCounterActor
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> WordCounterActor$$anonfun$receive$1
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> WordCounterActor$$anonfun$receive$1$$anonfun$applyOrElse$1
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> WordCounterActor$$anonfun$receive$1$$anonfun$applyOrElse$2
+used names:
+147 items
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/Sample.scala -> +
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/Sample.scala -> <init>
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/Sample.scala -> ?
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/Sample.scala -> ActorSystem
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/Sample.scala -> App
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/Sample.scala -> ClassTag
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/Sample.scala -> ExecutionContexts
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/Sample.scala -> Predef
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/Sample.scala -> Props
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/Sample.scala -> Sample
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/Sample.scala -> Timeout
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/Sample.scala -> WordCounterActor
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/Sample.scala -> actor
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/Sample.scala -> actorOf
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/Sample.scala -> akka
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/Sample.scala -> apply
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/Sample.scala -> ask
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/Sample.scala -> concurrent
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/Sample.scala -> dispatch
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/Sample.scala -> duration
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/Sample.scala -> ec
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/Sample.scala -> future
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/Sample.scala -> global
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/Sample.scala -> map
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/Sample.scala -> materializeClassTag
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/Sample.scala -> package
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/Sample.scala -> pattern
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/Sample.scala -> println
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/Sample.scala -> qual$1
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/Sample.scala -> result
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/Sample.scala -> scala
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/Sample.scala -> seconds
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/Sample.scala -> system
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/Sample.scala -> terminate
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/Sample.scala -> timeout
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/Sample.scala -> util
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/Sample.scala -> x$1
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/Sample.scala -> x$2
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/Sample.scala -> x$3
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/StringCounterActor.scala -> !
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/StringCounterActor.scala -> &&
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/StringCounterActor.scala -> <init>
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/StringCounterActor.scala -> ==
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/StringCounterActor.scala -> A1
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/StringCounterActor.scala -> AbstractFunction1
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/StringCounterActor.scala -> Actor
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/StringCounterActor.scala -> B1
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/StringCounterActor.scala -> Function1
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/StringCounterActor.scala -> Integer
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/StringCounterActor.scala -> None
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/StringCounterActor.scala -> Predef
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/StringCounterActor.scala -> ProcessStringMsg
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/StringCounterActor.scala -> Product
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/StringCounterActor.scala -> ScalaRunTime
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/StringCounterActor.scala -> Serializable
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/StringCounterActor.scala -> String
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/StringCounterActor.scala -> StringCounterActor
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/StringCounterActor.scala -> StringProcessedMsg
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/StringCounterActor.scala -> _hashCode
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/StringCounterActor.scala -> _toString
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/StringCounterActor.scala -> actor
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/StringCounterActor.scala -> actorRef2Scala
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/StringCounterActor.scala -> akka
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/StringCounterActor.scala -> asInstanceOf
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/StringCounterActor.scala -> eq
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/StringCounterActor.scala -> int2Integer
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/StringCounterActor.scala -> isInstanceOf
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/StringCounterActor.scala -> java
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/StringCounterActor.scala -> lang
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/StringCounterActor.scala -> length
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/StringCounterActor.scala -> package
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/StringCounterActor.scala -> println
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/StringCounterActor.scala -> runtime
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/StringCounterActor.scala -> scala
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/StringCounterActor.scala -> self
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/StringCounterActor.scala -> sender
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/StringCounterActor.scala -> split
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/StringCounterActor.scala -> string
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/StringCounterActor.scala -> toString
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/StringCounterActor.scala -> typedProductIterator
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/StringCounterActor.scala -> unchecked
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/StringCounterActor.scala -> words
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/StringCounterActor.scala -> wordsInLine
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/StringCounterActor.scala -> ||
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> !
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> &&
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> +
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> <init>
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> ==
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> A1
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> AbstractFunction0
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> Actor
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> ActorRef
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> B1
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> ClassTag
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> Codec
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> Function1
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> Integer2int
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> None
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> Option
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> Predef
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> Product
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> Props
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> ScalaRunTime
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> Serializable
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> Source
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> StartprocessFileMsg
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> StringCounterActor
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> WordCounterActor
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> _hashCode
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> _toString
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> actor
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> actorOf
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> actorRef2Scala
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> akka
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> apply
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> asInstanceOf
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> context
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> fallbackSystemCodec
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> fileSender
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> fileSender_=
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> foreach
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> fromFile
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> getLines
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> io
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> isInstanceOf
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> line
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> linesProcessed
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> linesProcessed_=
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> map
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> materializeClassTag
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> package
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> println
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> result
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> result_=
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> running
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> running_=
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> runtime
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> scala
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> self
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> sender
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> toString
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> totalLines
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> totalLines_=
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> typedProductIterator
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> unchecked
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> words
+product stamps:
+17 items
+/Users/martingwarada/projects/AkkaWordCount/target/scala-2.11/classes/ProcessStringMsg$.class -> lastModified(1451429588000)
+/Users/martingwarada/projects/AkkaWordCount/target/scala-2.11/classes/ProcessStringMsg.class -> lastModified(1451429588000)
+/Users/martingwarada/projects/AkkaWordCount/target/scala-2.11/classes/Sample$$anonfun$1.class -> lastModified(1451429637000)
+/Users/martingwarada/projects/AkkaWordCount/target/scala-2.11/classes/Sample$$anonfun$2.class -> lastModified(1451429637000)
+/Users/martingwarada/projects/AkkaWordCount/target/scala-2.11/classes/Sample$.class -> lastModified(1451429637000)
+/Users/martingwarada/projects/AkkaWordCount/target/scala-2.11/classes/Sample$delayedInit$body.class -> lastModified(1451429637000)
+/Users/martingwarada/projects/AkkaWordCount/target/scala-2.11/classes/Sample.class -> lastModified(1451429636000)
+/Users/martingwarada/projects/AkkaWordCount/target/scala-2.11/classes/StartprocessFileMsg$.class -> lastModified(1451429588000)
+/Users/martingwarada/projects/AkkaWordCount/target/scala-2.11/classes/StartprocessFileMsg.class -> lastModified(1451429588000)
+/Users/martingwarada/projects/AkkaWordCount/target/scala-2.11/classes/StringCounterActor$$anonfun$receive$1.class -> lastModified(1451429588000)
+/Users/martingwarada/projects/AkkaWordCount/target/scala-2.11/classes/StringCounterActor.class -> lastModified(1451429588000)
+/Users/martingwarada/projects/AkkaWordCount/target/scala-2.11/classes/StringProcessedMsg$.class -> lastModified(1451429588000)
+/Users/martingwarada/projects/AkkaWordCount/target/scala-2.11/classes/StringProcessedMsg.class -> lastModified(1451429588000)
+/Users/martingwarada/projects/AkkaWordCount/target/scala-2.11/classes/WordCounterActor$$anonfun$receive$1$$anonfun$applyOrElse$1.class -> lastModified(1451429588000)
+/Users/martingwarada/projects/AkkaWordCount/target/scala-2.11/classes/WordCounterActor$$anonfun$receive$1$$anonfun$applyOrElse$2.class -> lastModified(1451429588000)
+/Users/martingwarada/projects/AkkaWordCount/target/scala-2.11/classes/WordCounterActor$$anonfun$receive$1.class -> lastModified(1451429588000)
+/Users/martingwarada/projects/AkkaWordCount/target/scala-2.11/classes/WordCounterActor.class -> lastModified(1451429588000)
+source stamps:
+3 items
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/Sample.scala -> hash(45169449512171abfe983e03520b4d724fa4f875)
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/StringCounterActor.scala -> hash(b6c37c65afbd3e1e5a2de876506aafd1fcbadd15)
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> hash(eec52096f0af6e3b684824cc92ec5f225a3c9b16)
+binary stamps:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_31.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1418879070000)
+/Users/martingwarada/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4-SNAPSHOT.jar -> lastModified(1451426572000)
+/Users/martingwarada/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> lastModified(1435004218000)
+class names:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_31.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/martingwarada/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4-SNAPSHOT.jar -> akka.actor.ActorSystem$
+/Users/martingwarada/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.App
+internal apis:
+3 items
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/Sample.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBErWEYAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwnt3EEXQAAmVjc3EAfgALUJXdw3QAB3RpbWVvdXR1cQB+AAkAAAAbc3EAfgALPy1UM3QABm5vdGlmeXNxAH4AC8r4Tlt0AAVhY3RvcnNxAH4AC4BJ9qd0AAR3YWl0c3EAfgALIsZrYXQADSRhc0luc3RhbmNlT2ZzcQB+AAsSyZTYdAAGc3lzdGVtc3EAfgALS5iOxXQABmZ1dHVyZXNxAH4AC4pZ0w50AAZlcXVhbHNzcQB+AAu+x0GMdAAMYXNJbnN0YW5jZU9mc3EAfgALm8vCSHQADmV4ZWN1dGlvblN0YXJ0c3EAfgALzzhCQXQADHN5bmNocm9uaXplZHNxAH4ACzwSfGR0AA0kaXNJbnN0YW5jZU9mc3EAfgAL+0oWBXQABG1haW5zcQB+AAtdpxC3dAAJbm90aWZ5QWxsc3EAfgALhJSBvHQADGlzSW5zdGFuY2VPZnNxAH4AC2I0xiF0AAZTYW1wbGVzcQB+AAv28FALdAACPT1zcQB+AAs8g2FedAAFY2xvbmVzcQB+AAtO1TpndAAIdG9TdHJpbmdzcQB+AAvshy2/dAAEYXJnc3NxAH4AC84C4KB0AAIhPXNxAH4AC6tUOOB0AAhnZXRDbGFzc3NxAH4AC7hVNWV0AAJuZXNxAH4ACwThI9N0AAJlcXNxAH4AC47Liut0AAtkZWxheWVkSW5pdHNxAH4AC8CYsxt0AAIjI3NxAH4AC90ZZiR0AAhmaW5hbGl6ZXNxAH4AC1VuwG50AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AFF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4AL3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAJ0ABBzY2FsYS5kZXByZWNhdGVkdAAac2NhbGEuZGVwcmVjYXRlZE92ZXJyaWRpbmdzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AGt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGoAcHNxAH4Ab3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBRTAAJaW5oZXJpdGVkcQB+AFFMAAdwYXJlbnRzcQB+AFF4cQB+AHNzcQB+AGoAcHNxAH4Ab3VxAH4ATAAAAABzcQB+AGoAcHNxAH4Ab3VxAH4ATAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AUnEAfgBbdXEAfgBcAAAAAXNyABR4c2J0aS5hcGkuQW5ub3RhdGlvbt4OgaL2XAqyAgACWwAJYXJndW1lbnRzdAAfW0x4c2J0aS9hcGkvQW5ub3RhdGlvbkFyZ3VtZW50O0wABGJhc2VxAH4AgHhwdXIAH1tMeHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudDtRnaaPOCUPeAIAAHhwAAAAAXNyABx4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW501kWx2AMbF3wCAAJMAARuYW1lcQB+AAxMAAV2YWx1ZXEAfgAMeHB0AAB0ACooIm1haW4gc2hvdWxkIG5vdCBiZSBvdmVycmlkZGVuIiwiMi4xMS4wIilzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBydAAUZGVwcmVjYXRlZE92ZXJyaWRpbmdzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AHJzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJpzcQB+AF4AcQB+ACl1cQB+AGAAAAAAc3EAfgCNdAAEVW5pdHEAfgCTdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AAxMAAN0cGVxAH4AgHhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AY3QABVBsYWlucQB+ADdzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AI5bAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AHJzcQB+AI10AAVBcnJheXEAfgCTdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AI10AAZTdHJpbmdzcQB+AJFzcQB+AJR1cQB+AJcAAAADc3EAfgCZdAAEamF2YXNxAH4AmXQABGxhbmdxAH4AnnNxAH4AagBwc3EAfgBvdXEAfgC1AAAABHNxAH4AjXQAA0FwcHEAfgCTc3EAfgCNdAALRGVsYXllZEluaXRxAH4Ak3NxAH4AjXQABk9iamVjdHEAfgC5c3EAfgCNdAADQW55cQB+AJN1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUe/ynKp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABFL1VzZXJzL21hcnRpbmd3YXJhZGEvcHJvamVjdHMvQWtrYVdvcmRDb3VudC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAURRaUSVEhcav+mD4DUgtNck+k+HU=
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/StringCounterActor.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDizy5+AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwPP0Fh3QABHNlbGZzcQB+AAtEF9XwdAAHY29udGV4dHVxAH4ACQAAAC5zcQB+AAtCj6ZJdAAGbm90aWZ5c3EAfgALnv7+93QAB1JlY2VpdmVzcQB+AAtBo/A2dAAEd2FpdHNxAH4AC/jKI6F0AA0kYXNJbnN0YW5jZU9mc3EAfgALslDJrXQADHByb2R1Y3RBcml0eXNxAH4AC8iAERZ0AAZlcXVhbHNzcQB+AAuUFEjYdAAMYXNJbnN0YW5jZU9mc3EAfgALtyme33QADHN5bmNocm9uaXplZHNxAH4AC28KX9p0AA0kaXNJbnN0YW5jZU9mc3EAfgALpDEvxHQAB3JlY2VpdmVzcQB+AAu9fS+sdAAKcHJlUmVzdGFydHNxAH4AC7r3qlB0AA1hcm91bmRSZWNlaXZlc3EAfgAL39FNiHQACGNhbkVxdWFsc3EAfgALvMn0iHQABnN0cmluZ3NxAH4AC7fo8+V0AAtwb3N0UmVzdGFydHNxAH4ACzingjB0AAhwb3N0U3RvcHNxAH4AC+l0WlB0AA1wcm9kdWN0UHJlZml4c3EAfgALxgJuZ3QACW5vdGlmeUFsbHNxAH4ACyE/wrl0ABFhcm91bmRQb3N0UmVzdGFydHNxAH4AC40tewB0AAxpc0luc3RhbmNlT2ZzcQB+AAsOohdWdAAQYXJvdW5kUHJlUmVzdGFydHNxAH4AC1IYnsZ0AA5hcm91bmRQb3N0U3RvcHNxAH4AC4m475l0ABJTdHJpbmdDb3VudGVyQWN0b3JzcQB+AAuP6xmkdAAGPGluaXQ+c3EAfgALMXZ9aXQACHByZVN0YXJ0c3EAfgALPf+EmHQACXVuaGFuZGxlZHNxAH4AC+H+3xx0AAI9PXNxAH4AC6D7sV90AAVjbG9uZXNxAH4AC+vvvEN0AARjb3B5c3EAfgALvK44pnQABXdvcmRzc3EAfgAL6Rj7t3QABnNlbmRlcnNxAH4AC0nq/zt0AAh0b1N0cmluZ3NxAH4AC1fE6IF0ABBQcm9jZXNzU3RyaW5nTXNnc3EAfgALkv0O2HQAAiE9c3EAfgALOofZyXQACGdldENsYXNzc3EAfgALsstoYnQADmNvcHkkZGVmYXVsdCQxc3EAfgALGWmUNHQAElN0cmluZ1Byb2Nlc3NlZE1zZ3NxAH4AC2VDlwB0AAJuZXNxAH4ACyLjE2d0ABJzdXBlcnZpc29yU3RyYXRlZ3lzcQB+AAtpJAvbdAACZXFzcQB+AAt+zOvpdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgALhXSjnnQAAiMjc3EAfgALJ1ODH3QACGZpbmFsaXplc3EAfgALQd6WjXQADnByb2R1Y3RFbGVtZW50c3EAfgALIEggRnQACGhhc2hDb2Rlc3EAfgALH+niCHQADmFyb3VuZFByZVN0YXJ0c3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAA3NyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4Ad3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgBTdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AI4Bc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AHdMAAlpbmhlcml0ZWRxAH4Ad0wAB3BhcmVudHNxAH4Ad3hxAH4AlXNxAH4AjgF1cQB+AHIAAAAAcHNxAH4AjgF1cQB+AHIAAAAAcHNxAH4AjgF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AJR0AAxTZXJpYWxpemFibGVzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AJRzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AK5zcQB+AKFxAH4ApHNxAH4ApXNxAH4AqHVxAH4AqwAAAANzcQB+AK10AARqYXZhc3EAfgCtdAACaW9xAH4AsnNxAH4AoXQAB1Byb2R1Y3RxAH4Ap3NxAH4AoXQABkVxdWFsc3EAfgCnc3EAfgChdAAGT2JqZWN0c3EAfgClc3EAfgCodXEAfgCrAAAAA3NxAH4ArXEAfgC4c3EAfgCtdAAEbGFuZ3EAfgCyc3EAfgChdAADQW55cQB+AKdwcHNxAH4AdHEAfgCBdXEAfgCCAAAAAHNxAH4AhABxAH4AW3VxAH4AhgAAAABxAH4AinVxAH4AjAAAAABzcQB+AI4BcQB+AJZwc3EAfgCOAXNxAH4AmHNxAH4AjgF1cQB+AHIAAAAAcHNxAH4AjgF1cQB+AHIAAAAAcHNxAH4AjgF1cQB+AJ8AAAAGc3EAfgChcQB+AKRzcQB+AKVzcQB+AKh1cQB+AKsAAAACc3EAfgCtcQB+ALBxAH4AsnNxAH4AoXEAfgCkc3EAfgClc3EAfgCodXEAfgCrAAAAA3NxAH4ArXEAfgC4c3EAfgCtdAACaW9xAH4AsnNxAH4AoXEAfgC8cQB+ANhzcQB+AKF0AAZFcXVhbHNxAH4A2HNxAH4AoXEAfgDAc3EAfgClc3EAfgCodXEAfgCrAAAAA3NxAH4ArXEAfgC4c3EAfgCtcQB+AMZxAH4AsnNxAH4AoXEAfgDIcQB+ANhwcHNxAH4AdHEAfgCBdXEAfgCCAAAAAHNxAH4AhABxAH4AP3VxAH4AhgAAAABxAH4AinVxAH4AjAAAAABzcQB+AI4BcQB+AJZwc3EAfgCOAXNxAH4AmHNxAH4AjgF1cQB+AHIAAAAAcHNxAH4AjgF1cQB+AHIAAAAAcHNxAH4AjgF1cQB+AJ8AAAADc3EAfgChdAAFQWN0b3JzcQB+AKVzcQB+AKh1cQB+AKsAAAADc3EAfgCtdAAEYWtrYXNxAH4ArXQABWFjdG9ycQB+ALJzcQB+AKFxAH4AwHNxAH4ApXNxAH4AqHVxAH4AqwAAAANzcQB+AK1xAH4AuHNxAH4ArXEAfgDGcQB+ALJzcQB+AKFxAH4AyHNxAH4ApXNxAH4AqHVxAH4AqwAAAAJzcQB+AK1xAH4AsHEAfgCycHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUe/x2Gx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABFL1VzZXJzL21hcnRpbmd3YXJhZGEvcHJvamVjdHMvQWtrYVdvcmRDb3VudC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUtsN8Za+9Ph5aLeh2UGqv0fy63RU=
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHABVdiLAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwP4vtBXQABHNlbGZzcQB+AAsey6FAdAAHY29udGV4dHVxAH4ACQAAAC9zcQB+AAsfqWqWdAAGbm90aWZ5c3EAfgALnIkDXHQAB1JlY2VpdmVzcQB+AAtzpgHxdAAEd2FpdHNxAH4AC+9OSoB0AA0kYXNJbnN0YW5jZU9mc3EAfgAL6MALv3QADHByb2R1Y3RBcml0eXNxAH4AC8aqchV0AA5saW5lc1Byb2Nlc3NlZHNxAH4AC46KyAt0AAZlcXVhbHNzcQB+AAuFo+LodAAHcnVubmluZ3NxAH4AC8Goreh0AAxhc0luc3RhbmNlT2ZzcQB+AAtbG9QFdAAGcmVzdWx0c3EAfgALbiCBv3QADHN5bmNocm9uaXplZHNxAH4ACw/IqgV0AA0kaXNJbnN0YW5jZU9mc3EAfgAL7QBrxXQAB3JlY2VpdmVzcQB+AAs52mEfdAAKcHJlUmVzdGFydHNxAH4AC626YX50AA1hcm91bmRSZWNlaXZlc3EAfgALjKaDInQACGNhbkVxdWFsc3EAfgALhnAW6XQAC3Bvc3RSZXN0YXJ0c3EAfgALp9qlw3QACHBvc3RTdG9wc3EAfgALUHxkPnQADXByb2R1Y3RQcmVmaXhzcQB+AAtgq4RVdAAJbm90aWZ5QWxsc3EAfgALSg6k4nQAEWFyb3VuZFBvc3RSZXN0YXJ0c3EAfgALOPs2JnQAEFdvcmRDb3VudGVyQWN0b3JzcQB+AAu+DJbhdAAMaXNJbnN0YW5jZU9mc3EAfgALOHzuZnQAEGFyb3VuZFByZVJlc3RhcnRzcQB+AAsqJJKldAAOYXJvdW5kUG9zdFN0b3BzcQB+AAux19v4dAAGPGluaXQ+c3EAfgAL1iyg6HQACHByZVN0YXJ0c3EAfgALCr76LnQAE1N0YXJ0cHJvY2Vzc0ZpbGVNc2dzcQB+AAssOHz/dAAJdW5oYW5kbGVkc3EAfgALT62ruXQAAj09c3EAfgAL1d3g2nQACmZpbGVTZW5kZXJzcQB+AAta63AQdAAFY2xvbmVzcQB+AAuRN8dSdAAKdG90YWxMaW5lc3NxAH4AC0KeCat0AARjb3B5c3EAfgALMXUaZHQABnNlbmRlcnNxAH4AC0cw8CJ0AAh0b1N0cmluZ3NxAH4AC45BRs10AAIhPXNxAH4AC5u+Jjh0AAhnZXRDbGFzc3NxAH4AC6NuUBh0AAJuZXNxAH4AC12qBw90ABJzdXBlcnZpc29yU3RyYXRlZ3lzcQB+AAsw/1X3dAACZXFzcQB+AAvJnJw+dAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgALQzCTFXQAAiMjc3EAfgALACNn2XQACGZpbmFsaXplc3EAfgALHz75EnQADnByb2R1Y3RFbGVtZW50c3EAfgAL6fVoYHQACGhhc2hDb2Rlc3EAfgAL43b5t3QADmFyb3VuZFByZVN0YXJ0c3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AeXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgBJdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgCReHBzcgATeHNidGkuYXBpLkVtcHR5VHl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
+external apis:
+0 items
+source infos:
+3 items
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/Sample.scala -> 
+AAAAAAAAAAA=
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/StringCounterActor.scala -> 
+AAAAAAAAAAA=
+/Users/martingwarada/projects/AkkaWordCount/src/main/scala/WordCounterActor.scala -> 
+AAAAAAAAAAA=
+compilations:
+6 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUe/Onv11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9tYXJ0aW5nd2FyYWRhL3Byb2plY3RzL0Fra2FXb3JkQ291bnQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUe/Qyh91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9tYXJ0aW5nd2FyYWRhL3Byb2plY3RzL0Fra2FXb3JkQ291bnQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUe/RQI91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9tYXJ0aW5nd2FyYWRhL3Byb2plY3RzL0Fra2FXb3JkQ291bnQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUe/a3EJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9tYXJ0aW5nd2FyYWRhL3Byb2plY3RzL0Fra2FXb3JkQ291bnQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUe/x2Gx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9tYXJ0aW5nd2FyYWRhL3Byb2plY3RzL0Fra2FXb3JkQ291bnQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUe/ynKp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9tYXJ0aW5nd2FyYWRhL3Byb2plY3RzL0Fra2FXb3JkQ291bnQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
